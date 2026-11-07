@@ -1,0 +1,25 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+data/database/*.db
+data/vector_db/
+
+# Private documents
+data/documents/*
+!data/documents/.gitkeep
+
+# Generated reports
+comparison_results.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,7 @@
+mcp[cli]>=1.30,<2
+pymupdf
+pytest
+anthropic
+python-dotenv
+chromadb
+sentence-transformers
