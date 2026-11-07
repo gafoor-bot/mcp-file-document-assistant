@@ -249,17 +249,17 @@ The comparison script generates `comparison_results.json` containing experiment 
 
 ## 🚀 Future Enhancements
 
-- [ ] Incremental document indexing
-- [ ] Automatic detection of modified documents
-- [ ] Advanced document chunking
-- [ ] PDF page-level source references
-- [ ] Retrieval reranking
-- [ ] Hybrid keyword and semantic search
-- [ ] Remote MCP deployment using Streamable HTTP
-- [ ] Authentication and access control
-- [ ] Docker containerization
-- [ ] Cloud deployment on AWS
-- [ ] Improved evaluation metrics and automated RAG testing
+-  Incremental document indexing
+-  Automatic detection of modified documents
+-  Advanced document chunking
+-  PDF page-level source references
+-  Retrieval reranking
+-  Hybrid keyword and semantic search
+-  Remote MCP deployment using Streamable HTTP
+-  Authentication and access control
+-  Docker containerization
+-  Cloud deployment on AWS
+-  Improved evaluation metrics and automated RAG testing
 
 ## 🎯 Learning Objectives
 
@@ -281,5 +281,6 @@ MCP | Python | Backend Development | AI Integration | RAG | AWS
 
 ---
 
-⭐ If you find this project interesting, feel free to explore and contribute!
+
+ **If you find this project interesting, feel free to explore and contribute!
 
